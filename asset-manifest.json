@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github.io/lad/static/css/main.bd35c470.css",
+    "main.js": "/github.io/lad/static/js/main.87be48bf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/github.io/lad/static/js/787.28cb0dcd.chunk.js",
+    "static/media/cuu.jpg": "/github.io/lad/static/media/cuu.cacf126f98611327ee86.jpg",
+    "static/media/2.png": "/github.io/lad/static/media/2.1788b82cfb9cfc4d7463.png",
+    "static/media/1.png": "/github.io/lad/static/media/1.a412fbdba1315711ec43.png",
+    "static/media/3.png": "/github.io/lad/static/media/3.2186bd4533140275286e.png",
+    "static/media/4.png": "/github.io/lad/static/media/4.1bb5ff208ae4c1aeab6c.png",
+    "static/media/me.png": "/github.io/lad/static/media/me.ae578ae2a87047675a55.png",
+    "static/media/5.png": "/github.io/lad/static/media/5.4a4862f7d13604b2f396.png",
+    "static/media/phn.png": "/github.io/lad/static/media/phn.908e011ba01e2a75a775.png",
+    "static/media/address.png": "/github.io/lad/static/media/address.ad8093b34205568b66b9.png",
+    "index.html": "/github.io/lad/index.html",
+    "main.bd35c470.css.map": "/github.io/lad/static/css/main.bd35c470.css.map",
+    "main.87be48bf.js.map": "/github.io/lad/static/js/main.87be48bf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/github.io/lad/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd35c470.css",
+    "static/js/main.87be48bf.js"
+  ]
+}
